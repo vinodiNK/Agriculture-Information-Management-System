@@ -14,3 +14,10 @@
    ###    • Users can view the knowledge base and recommendations.
 
    ###    • Calculate the amount of fertilizer suitable for the land
+
+   # ✔️ Technologies Used
+   ###   HTML, CSS, and JavaScript
+   ###   Node.js
+   ###   PHP
+   ###   React.js
+   
