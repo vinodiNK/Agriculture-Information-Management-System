@@ -5,9 +5,8 @@
  
    ###    • Users can register to the system and get the authentication.
 
-   ###    • Development Officer, Agricultural Research & Production Assistant, and Agriculture Instructor 
-   ###    can enter, view, and modify data.
-   
+   ###    • Development Officer, Agricultural Research & Production Assistant, and Agriculture Instructor  can enter, view, and modify data.
+
    ###    • The system can filter the data.
 
    ###    • Senior Development Officer can get the summary of the data.
