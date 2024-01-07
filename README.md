@@ -16,8 +16,8 @@
    ###    • Calculate the amount of fertilizer suitable for the land
 
    # ✔️ Technologies Used
-   ###   HTML, CSS, and JavaScript
-   ###   Node.js
-   ###   PHP
-   ###   React.js
+   ###  • HTML, CSS, and JavaScript
+   ###  • Node.js
+   ###  • PHP
+   ###  • React.js
    
