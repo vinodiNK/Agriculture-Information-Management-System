@@ -19,6 +19,7 @@
    ### Scalability
    ### Reliability
    ### Security
+   ### Usability
 
    # ✔️ Technologies Used
    ###  • HTML, CSS, and JavaScript
