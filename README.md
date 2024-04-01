@@ -18,6 +18,7 @@
    # 📜 Non-Functional Requirements​
    ### Scalability
    ### Reliability
+   ### Security
 
    # ✔️ Technologies Used
    ###  • HTML, CSS, and JavaScript
