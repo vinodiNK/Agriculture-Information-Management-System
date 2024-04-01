@@ -16,6 +16,7 @@
    ###    • Calculate the amount of fertilizer suitable for the land
 
    # 📜 Non-Functional Requirements​
+   ### Scalability
 
    # ✔️ Technologies Used
    ###  • HTML, CSS, and JavaScript
