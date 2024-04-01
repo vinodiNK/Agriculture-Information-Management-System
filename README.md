@@ -16,10 +16,10 @@
    ###    • Calculate the amount of fertilizer suitable for the land
 
    # 📜 Non-Functional Requirements​
-   ### Scalability
-   ### Reliability
-   ### Security
-   ### Usability
+   ### • Scalability
+   ### • Reliability
+   ### • Security
+   ### • Usability
 
    # ✔️ Technologies Used
    ###  • HTML, CSS, and JavaScript
